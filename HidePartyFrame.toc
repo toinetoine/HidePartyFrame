@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: HidePartyFrame
+## Author: toinetoine
+## Notes: Permanently hide default WoW party frame
+## OptionalDeps:
+## Dependencies:
+HidePartyFrame.xml
